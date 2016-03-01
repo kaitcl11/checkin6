@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+body
+{background:lightblue}
+h1 {text-align: center; font-family: 'Dosis'; font-size: 40px; color: snow}
+h2 {text-align: center;font-family: 'Dosis'; font-size: 25px}
+p {text-align: center; font-family: 'Dosis'; font-size: 20px}
+#wrapper{ width: 80%; height: 80%; margin: 0 auto; border: 1px solid darkblue; background:snow}
